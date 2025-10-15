@@ -1,12 +1,10 @@
 # Digital-Product-AI-Strategy
 
-
 This repository documents an in-depth digital product strategy project focused on redefining news consumption for the next generation, specifically Gen Z. The core challenge was to explore how advanced Artificial Intelligence (AI) features—such as personalization, recommendation engines, and conversational interfaces—are shaping how young users stay informed
-
 
 The project utilized a hands-on approach, starting with a nationwide user survey to gather direct insights into Gen Z's patterns and preferences. These real data points were used to evaluate various AI tools and ultimately formulate an actionable strategy for creating a more intuitive and engaging news experience.
 
-
+<h1></h1>
 <b>Project Goals and Phases</b>
 
 This strategy was developed across five key phases, moving from foundational research to final product recommendations:
@@ -16,9 +14,10 @@ This strategy was developed across five key phases, moving from foundational res
 4.	Consumer Insights: Convert raw survey responses into clear, actionable insights by analyzing quantitative data (patterns, trends) and qualitative data (motivations, emotions), enhanced by AI-supported techniques.
 5.	Product Recommendation: Craft a compelling, data-driven narrative to translate user problems into specific product recommendations and feature ideas, justified by KPI-focused metrics.
 
-
+<h1></h1>
 <b>Core Problem and Insights</b>
 
+<br></br>
 <i>The Personalization Paradox and Trust Crisis</i>
 
 The research revealed a significant gap between user expectations and product delivery:
@@ -28,7 +27,7 @@ The research revealed a significant gap between user expectations and product de
 
   - The Demand for Control: Nearly half (45%) of the audience prefers to manually set their own topics or sources. This confirms that Gen Z rejects the "black box" approach of purely passive, algorithmic systems.
 
-
+<br></br>
 
 <i>Key Insight: The Trustworthy Co-Pilot</i>
 
