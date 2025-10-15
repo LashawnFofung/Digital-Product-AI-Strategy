@@ -37,8 +37,6 @@ The way forward is functional control. Users demand a co-piloted experience wher
 
 <b>View Pitch: </b>[AI Perosnalization - Consumer Insight](https://github.com/LashawnFofung/Digital-Product-AI-Strategy/blob/main/News%20Corp%20Gen%20Z%20Consumer%20Insight.pptx)
 
-<b>View Data:</b>
-
 <b>Community Outreach</b>: [AI Personalization -PDF](https://github.com/LashawnFofung/Digital-Product-AI-Strategy/blob/main/Community%20Outreach%20-%20AI%20Personalization%20(standard).pdf)
 
 
