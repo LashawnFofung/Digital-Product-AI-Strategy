@@ -17,7 +17,7 @@ This strategy was developed across five key phases, moving from foundational res
 5.	Product Recommendation: Craft a compelling, data-driven narrative to translate user problems into specific product recommendations and feature ideas, justified by KPI-focused metrics.
 
 
-<b>Core Problem and Insights<b>
+<b>Core Problem and Insights</b>
 
 <i>The Personalization Paradox and Trust Crisis</i>
 The research revealed a significant gap between user expectations and product delivery:
