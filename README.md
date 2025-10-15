@@ -15,3 +15,21 @@ This strategy was developed across five key phases, moving from foundational res
 3.	Competitive & Data Analysis: Deploy the survey, track responses, and conduct a competitive analysis of rival platforms through the lens of Key Performance Indicators (KPIs) to identify where features link to specific goals (e.g., retention, engagement, trust).
 4.	Consumer Insights: Convert raw survey responses into clear, actionable insights by analyzing quantitative data (patterns, trends) and qualitative data (motivations, emotions), enhanced by AI-supported techniques.
 5.	Product Recommendation: Craft a compelling, data-driven narrative to translate user problems into specific product recommendations and feature ideas, justified by KPI-focused metrics.
+
+
+<b>Core Problem and Insights<b>
+
+<i>The Personalization Paradox and Trust Crisis</i>
+The research revealed a significant gap between user expectations and product delivery:
+•	Invisibility Problem: Despite investment in personalization features, 26% of Gen Z users report they never notice or use them.
+
+•	Trust Crisis: There is a high level of skepticism, with 42% expressing a trust deficit in news apps using their data responsibly. A significant 50% place low or no trust in the ability of platforms to use their data responsibly.
+•	The Demand for Control: Nearly half (45%) of the audience prefers to manually set their own topics or sources. This confirms that Gen Z rejects the "black box" approach of purely passive, algorithmic systems.
+
+
+
+<i>Key Insight: The Trustworthy Co-Pilot</i>
+
+The way forward is functional control. Users demand a co-piloted experience where they maintain control and actively input preferences, while the AI performs the heavy lifting in the background. We must move beyond simply personalizing topics to personalizing the delivery of news.
+
+
