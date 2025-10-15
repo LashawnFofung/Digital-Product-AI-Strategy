@@ -20,11 +20,13 @@ This strategy was developed across five key phases, moving from foundational res
 <b>Core Problem and Insights</b>
 
 <i>The Personalization Paradox and Trust Crisis</i>
-The research revealed a significant gap between user expectations and product delivery:
-•	Invisibility Problem: Despite investment in personalization features, 26% of Gen Z users report they never notice or use them.
 
-•	Trust Crisis: There is a high level of skepticism, with 42% expressing a trust deficit in news apps using their data responsibly. A significant 50% place low or no trust in the ability of platforms to use their data responsibly.
-•	The Demand for Control: Nearly half (45%) of the audience prefers to manually set their own topics or sources. This confirms that Gen Z rejects the "black box" approach of purely passive, algorithmic systems.
+The research revealed a significant gap between user expectations and product delivery:
+  - Invisibility Problem: Despite investment in personalization features, 26% of Gen Z users report they never notice or use them.
+
+  - Trust Crisis: There is a high level of skepticism, with 42% expressing a trust deficit in news apps using their data responsibly. A significant 50% place low or no trust in the ability of platforms to use their data responsibly.
+
+  - The Demand for Control: Nearly half (45%) of the audience prefers to manually set their own topics or sources. This confirms that Gen Z rejects the "black box" approach of purely passive, algorithmic systems.
 
 
 
