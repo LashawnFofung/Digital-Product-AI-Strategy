@@ -39,6 +39,6 @@ The way forward is functional control. Users demand a co-piloted experience wher
 
 <b>View Data:</b>
 
-<b>Community Outreach</b>: [AI Personalization -PDF](url)
+<b>Community Outreach</b>: [AI Personalization -PDF](https://github.com/LashawnFofung/Digital-Product-AI-Strategy/blob/main/Community%20Outreach%20-%20AI%20Personalization%20(standard).pdf)
 
 
