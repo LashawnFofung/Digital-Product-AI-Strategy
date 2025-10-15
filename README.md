@@ -33,4 +33,10 @@ The research revealed a significant gap between user expectations and product de
 
 The way forward is functional control. Users demand a co-piloted experience where they maintain control and actively input preferences, while the AI performs the heavy lifting in the background. We must move beyond simply personalizing topics to personalizing the delivery of news.
 
+<br></br>
+
+<b>View Pitch:</b>
+
+<b>View Data:</b>
+
 
