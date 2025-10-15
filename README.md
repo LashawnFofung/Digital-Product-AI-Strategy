@@ -35,7 +35,7 @@ The way forward is functional control. Users demand a co-piloted experience wher
 
 <br></br>
 
-<b>View Pitch:</b>
+<b>View Pitch:</b>[https://github.com/LashawnFofung/Digital-Product-AI-Strategy/blob/main/News%20Corp%20Gen%20Z%20Consumer%20Insight.pptx]
 
 <b>View Data:</b>
 
